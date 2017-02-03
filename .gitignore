@@ -1,3 +1,6 @@
 *.beam
 *.s??
+*.lock
+_build
+deps
 *~
